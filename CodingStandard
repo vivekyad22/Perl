@@ -1,0 +1,5 @@
+4-column indent.
+Opening curly on same line as keyword
+Space before the opening curly of a multi-line BLOCK.
+No space before the semicolon.
+Space around most operators
