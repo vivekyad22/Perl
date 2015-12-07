@@ -1,5 +1,18 @@
+
+
+
 4-column indent.
 Opening curly on same line as keyword
 Space before the opening curly of a multi-line BLOCK.
 No space before the semicolon.
 Space around most operators
+Blank lines between chunks that do different things.
+Uncuddled elses
+No space between function name and its opening parenthesis.
+Space after each comma
+Line up corresponding items vertically
+Try to label everything that you can.
+Good error handling
+Make it reusable using module or object class
+Consider making your code run cleanly with use strict and use warnings (or -w) in effect.
+
