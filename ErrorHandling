@@ -1,1 +1,14 @@
+Error handling or exception handling
+One of the key part of a program because execution and errors always go together in a program otherwise others may call your program as bad or imperfect :). 
+Like If you are opening a file which does not exist. then if you did not handle this situation properly then your program is considered to be of bad quality.
+Sometime you need to define appropriate actions to handle the errors like terminating the program completely or execution of some other steps 
+or can be some meaningful info . 
+A debugger or troubleshooter definitely understands the criticality or errors 
+IF statement
+UNLESS
+TERNARY
+WARN
+DIE
+
+ERROR handling using modules  
 
